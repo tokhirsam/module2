@@ -1,0 +1,6 @@
+-- DROP TABLE IF EXISTS Employee CASCADE;
+-- CREATE TABLE IF NOT EXISTS Employee(
+--     id        VARCHAR(36),
+--     name        VARCHAR(100),
+--     CONSTRAINT  user_pk PRIMARY KEY (id)
+--     );
